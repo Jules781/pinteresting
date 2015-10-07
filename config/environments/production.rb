@@ -79,5 +79,5 @@ Rails.application.configure do
 
   # required for heroku
   #Note to set this to your actual host
-  config.action_mailer.default_url_options = { host: 'localhost', port: 3000 }
+  config.action_mailer.default_url_options = { host: 'https://omr--pinteresting154.herokuapp.com/' }
 end
